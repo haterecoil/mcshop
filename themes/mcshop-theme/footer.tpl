@@ -40,6 +40,56 @@
 			{/if}
 		</div><!-- #page -->
 {/if}
+
+<div class="modal fade" id="ageModal" tabindex="-1" role="dialog" style="z-index:6000">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">Bienvenue sur MCASH</h4>
+			</div>
+			<div class="modal-body">
+				<p>Bienvenue sur la boutique MeyjeCorp, la référence de vente en semi-gros et gros en France !</p>
+				<p>Nous sommes obligés de vous poser la question suivante :</p>
+				<p>Confirmez-vous être majeur ?</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" id="ageModal--yes" class="btn btn-success" data-dismiss="modal">Oui</button>
+				<button type="button" id="ageModal--no" class="btn btn-warning">Non</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<script>
+
+	function AgeModal() {
+	    this._LOCAL_STORAGE_KEY = '_AGE_MODAL';
+	    this._HTML_ID = '#ageModal';
+		$(this._HTML_ID).on('hidden.bs.modal', this.onModalHide.bind(this))
+    }
+
+    AgeModal.prototype.show = function() {
+	    if (this.agreementWasSaved()) {
+	        return;
+        }
+        $(this._HTML_ID).modal('show');
+    };
+
+    AgeModal.prototype.agreementWasSaved = function() {
+        return null !== localStorage.getItem(this._LOCAL_STORAGE_KEY)
+    };
+
+	AgeModal.prototype.onModalHide = function() {
+	    localStorage.setItem(this._LOCAL_STORAGE_KEY, 'true');
+    };
+
+
+    $(document).ready(function(){
+		var ageModal = new AgeModal();
+		ageModal.show();
+	});
+
+</script>
+
 {include file="$tpl_dir./global.tpl"}
 	</body>
 </html>

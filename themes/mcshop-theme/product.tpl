@@ -396,7 +396,9 @@
 					</div> <!-- end box-cart-bottom -->
 				</div> <!-- end box-info-product -->
 			</form>
+
 			{/if}
+
 		</div> <!-- end pb-right-column-->
 	</div> <!-- end primary_block -->
 	{if !$content_only}

@@ -1,7 +1,1001 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dbe53d0-f877-4c7a-9842-b882d3c7367d" name="Default" comment="" />
+    <list default="true" id="7dbe53d0-f877-4c7a-9842-b882d3c7367d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/blockbanner.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/index.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/ajax-tab.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/ajax.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/ajax_products_list.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/autoupgrade/backup/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/autoupgrade/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/backup.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/backups/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/backups/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/cron_currency_rates.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/displayImage.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/drawer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/export/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/export/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/ajax_calls.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/config/config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/config/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/bootstrap-lightbox.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/bootstrap-modal.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/bootstrap-responsive.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/dropzone.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/dropzone.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/jquery.contextMenu.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/css/style.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/dialog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/execute.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/force_download.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/cut.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/date.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/dimension.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/door.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/download.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/duplicate.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/edit_img.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/glyphicons-halflings-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/glyphicons-halflings.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ac3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/accdb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ade.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/adp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ai.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/aiff.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/avi.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/bmp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/css.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/csv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/default.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/dmg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/doc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/docx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/fla.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/flv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/folder.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/folder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/folder_back.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/folder_back.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/gif.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/gz.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/html.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/iso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/jpeg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/jpg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/log.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/m4a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mdb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mid.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mov.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mp3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mp4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mpeg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/mpg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/odb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/odf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/odg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/odp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ods.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/odt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ogg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/otg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/otp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ots.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ott.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/pdf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/png.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/ppt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/pptx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/psd.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/rar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/rtf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/sql.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/svg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/tar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/tiff.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/txt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/wav.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/webm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/wma.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/xhtml.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/xls.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/xlsx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/xml.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico/zip.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ac3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/accdb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ade.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/adp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ai.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/aiff.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/avi.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/bmp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/css.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/csv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/default.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/dmg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/doc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/docx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/fla.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/flv.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/folder.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/folder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/folder_back.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/folder_back.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/gif.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/gz.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/html.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/iso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/jpeg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/jpg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/log.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/m4a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mdb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mid.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mov.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mp3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mp4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mpeg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/mpg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/odb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/odf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/odg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/odp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ods.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/odt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ogg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/otg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/otp.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ots.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ott.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/pdf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/png.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/ppt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/pptx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/psd.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/rar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/rtf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/sql.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/svg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/tar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/tiff.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/txt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/wav.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/webm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/wma.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/xhtml.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/xls.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/xlsx.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/xml.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/ico_dark/zip.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/info.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/label.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/page_white_add.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/page_white_copy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/page_white_delete.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/page_white_edit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/page_white_paste.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/preview.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/processing.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/rename.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/size.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/sort.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/spritemap.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/spritemap@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/spritemap@2x_hu_HU.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/spritemap_hu_HU.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/storing_animation.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/url.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/img/zip.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/include/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/include/php_image_magician.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/include/utils.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/Jplayer.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/add-on/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/add-on/jplayer.playlist.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/add-on/jquery.jplayer.inspector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/jquery.jplayer.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/popcorn/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/popcorn/popcorn.jplayer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/jplayer.blue.monday.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/jplayer.blue.monday.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/jplayer.blue.monday.seeking.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/jplayer.blue.monday.video.play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/blue.monday/spirites_blue.monday_2011.pxm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/jPlayer/skin/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/bootbox.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/bootstrap-lightbox.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/bootstrap-modal.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/bootstrap-modalmanager.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/dropzone.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/imagesloaded.pkgd.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/include.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/include.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.contextMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.contextMenu.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.queryloader2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.touchSwipe.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.ui.position.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/jquery.ui.position.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/js/modernizr.custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/az.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/bg.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/br.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/cs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/de.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/en.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/es.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/fa.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/fr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/hr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/hu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/id.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/it.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/mn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/nb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/nl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/pl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/pt.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/ru.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/se.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/sk.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/tr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/lang/uk.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/upload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/uploader/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/uploader/success.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/filemanager/uploader/success.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/footer.inc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/get-file-admin.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/grider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/header.inc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/import/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/import/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/init.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/password.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/pdf.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/searchcron.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/tabs/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/tabs/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/admin-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/admin-theme_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/overrides.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/admin-theme-blue.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/admin-theme-contrast.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/admin-theme-flex.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/admin-theme-fruit.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/admin-theme-prune.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/admin-theme-blue_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/admin-theme-contrast_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/admin-theme-flex_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/admin-theme-fruit_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/admin-theme-prune_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/schemes_rtl/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/vendor/font-awesome/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/vendor/font-awesome/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/vendor/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/css/vendor/nv.d3.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/fonts/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-button-degrade.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-degrade-table.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-lang.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-quick.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-submenu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-subtab.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-tab.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg-top.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bg_loaderSpace.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/bullet_orange.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/button-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/chosen-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/chosen-sprite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/dashboard_loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/export-csv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/footer-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/header_module.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-attention.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-cancel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-info.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-multishop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-search.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-search2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-sprites-title.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/icon-valid-green.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/live_edit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/logout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/module-logout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/module-profile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/modules_list_button.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/modules_view_layout_sidebar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/modules_view_layout_sidebar_grey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/modules_view_table_select_row.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/modules_view_table_select_row_grey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/news-bg.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/notif_customer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/notif_message.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/notif_order.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/patterns/bedge_grunge.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/patterns/classy_fabric.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/patterns/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/prestashop-addons-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/prestashop-avatar-header_shopname.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-addProduct.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-back.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-cancel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-delete.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-duplicate.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-edit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-export-csv-details.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-export-csv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-help-new.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-help.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-import.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-modules-list.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-new-module-addon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-new-module.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-new-url.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-new.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-partial-refund.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-preview.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-refresh-cache.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-refresh-index.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-save-and-stay.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-save-calendar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-save.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-standard-refund.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/process-icon-stats.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/searchbar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/searchbutton.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/select2-spinner.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/select2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/select2x2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/separator.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/separator_subnav.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/tab_right.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/thead.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/tree-multishop-groups.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/tree-multishop-root.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/tree-multishop-shop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/img/tree-multishop-url.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/admin-theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/calendar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/date-range-picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/help.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.fileupload-image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.fileupload-process.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.fileupload-validate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.fileupload.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.fileupload.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/jquery.iframe-transport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/modernizr-loads.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/tree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/affix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/bootstrap/transition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/enquire.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/enquire.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/jquery-passy.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/jquery-passy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/matchMedia.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/matchMedia.addListener.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/matchMedia.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/modernizr.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/modernizr.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/moment-with-langs.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/moment.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/nv.d3.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/nvd3.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/typeahead.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/js/vendor/typeahead.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/access/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/access/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/access/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/access/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addons_catalog/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addons_catalog/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/addresses/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attachments/helpers/list/list_action_delete.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attachments/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attribute_generator/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attribute_generator/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/attributes_groups/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/backup/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/form/form_ranges.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/logo.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carrier_wizard/summary.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carriers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/actions.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/conditions.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/informations.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/product_rule.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/product_rule_group.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cart_rules/product_rule_itemlist.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carts/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carts/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carts/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/carts/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/categories/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_categories/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_categories/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_categories/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_categories/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_content/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/cms_content/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/countries/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/view/message.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/view/modal.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/view/timeline_item.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customer_threads/message.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/required_fields.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/customers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/dashboard/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/dashboard/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/dashboard/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/dashboard/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/emails/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/emails/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/employees/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/employees/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/employees/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/employees/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/feature_value/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/feature_value/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/feature_value/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/feature_value/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/features/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/features/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/features/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/features/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/geolocation/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/geolocation/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/geolocation/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/geolocation/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/tree/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/tree/tree_categories.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/tree/tree_node_folder_radio.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/tree/tree_node_item_radio.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/groups/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/images/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/images/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/import/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/information/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/information/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/information/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/information/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/invoices/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/invoices/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/invoices/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/invoices/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/languages/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/languages/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/languages/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/languages/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/localization/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/localization/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/login/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/login/header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/login/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/login/layout.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/logs/employee_field.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/logs/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/logs/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/logs/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/logs/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/maintenance/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/maintenance/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/maintenance/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/maintenance/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/manufacturers/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/manufacturers/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/manufacturers/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/manufacturers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/marketing/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/marketing/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/marketing/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/marketing/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/meta/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/meta/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/ad_bar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/configuration_bar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/configure.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/favorites.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/filters.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/js.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/list.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/login_addons.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/modal_not_trusted.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/modal_not_trusted_blocked.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/modal_not_trusted_country.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/modal_translation.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/page.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/page_header_toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/quickview.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/tab_module_line.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/tab_modules_list.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules/warning_module.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules_positions/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules_positions/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/modules_positions/list_modules.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/not_found/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/not_found/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/order_preferences/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/order_preferences/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/order_preferences/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/order_preferences/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_customized_data.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_discount_form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_documents.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_new_product.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_print_pdf_icon.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_product_line.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_select_payment.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/_shipping.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/form_customization_feedback.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/orders/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/outstanding/_print_pdf_icon.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/outstanding/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/payment/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/payment/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/payment/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/payment/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/payment/restrictions.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/performance/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/performance/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/performance/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/performance/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/preferences/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/preferences/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/preferences/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/preferences/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/associations.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/attachments.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combination/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combination/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combination/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combination/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combination/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/combinations.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/customization.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/features.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/subtree_associated_categories.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/tree_associated_categories.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/tree_associated_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/tree_categories.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/tree_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/tree/tree_toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/uploader/ajax.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/uploader/attachment_ajax.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/uploader/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/helpers/uploader/virtual_product.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/images.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/informations.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/input_text_lang.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/multishop/check_fields.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/multishop/checkbox.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/multishop/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/pack.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/prices.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/quantities.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/seo.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/shipping.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/specific_prices_shop_update.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/suppliers.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/textarea_lang.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/virtualproduct.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/products/warehouses.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/calendar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/form_settings.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/referrers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/request_sql/list_action_export.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/return/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/return/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/return/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/return/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/tree/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/tree/tree_node_folder_checkbox.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/helpers/tree/tree_node_item_checkbox.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/scenes/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/search/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/search/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/search/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/search/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/list/list_action_delete.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/tree/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/tree/shop_tree_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/tree/shop_tree_node_folder.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/helpers/tree/shop_tree_node_item.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_group/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_group/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_group/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_group/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_group/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/shop_url/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/slip/_print_pdf_icon.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/slip/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/slip/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/slip/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/slip/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/specific_price_rule/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/specific_price_rule/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/specific_price_rule/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/specific_price_rule/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/states/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/states/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/states/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/states/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/calendar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/engines.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/menu.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stats/stats.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/statuses/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/statuses/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/statuses/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/statuses/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_cover/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_cover/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_cover/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_cover/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_instant_state/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_instant_state/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_instant_state/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_instant_state/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_mvt/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_mvt/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_mvt/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stock_mvt/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/stores/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/suppliers/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/suppliers/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/suppliers/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/suppliers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_change_state/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_change_state/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_change_state/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_change_state/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_receipt_history/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_receipt_history/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_receipt_history/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_receipt_history/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/supply_orders_receipt_history/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tabs/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tabs/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tabs/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tabs/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tags/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tags/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tags/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tags/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/list/list_action_edit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules_group/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tax_rules_group/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/view/importtheme_view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/themes/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tracking/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tracking/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tracking/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/tracking/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/translation_errors.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/translation_form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/translation_mails.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/helpers/view/translation_modules.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/translations/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/warehouses/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/warehouses/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/warehouses/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/warehouses/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/webservice/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/webservice/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/webservice/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/controllers/webservice/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/error.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/footer_toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/form_date_range_picker.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/form_submit_ajax.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/calendar/calendar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/calendar/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/dataviz/graph.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/dataviz/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/form/assoshop.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/form/form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/form/form_category.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/form/form_group.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/form/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/kpi/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/kpi/kpi.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/kpi/row.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_addstock.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_default.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_delete.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_details.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_duplicate.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_edit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_enable.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_preview.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_removestock.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_supplier_order_receipt.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_supply_order_change_state.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_supply_order_create_from_template.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_supply_order_receipt.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_transferstock.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_action_view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_content.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_footer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/list/list_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/modules_list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/modules_list/list.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/modules_list/modal.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/options/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/options/options.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/required_fields.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/shops_list/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/shops_list/list.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_categories.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_header.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_folder.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_folder_checkbox.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_folder_checkbox_shops.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_folder_radio.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_item.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_item_checkbox.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_item_checkbox_shops.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_node_item_radio.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_shops.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_toolbar_link.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/tree/tree_toolbar_search.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/uploader/ajax.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/uploader/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/uploader/simple.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/view/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/helpers/view/view.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/invalid_token.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/layout-ajax.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/layout-export.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/layout.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/modal.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/nav.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/page_header_toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/search_form.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/default/template/toolbar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin4587ip3uk/themes/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/defines.inc.php" afterPath="$PROJECT_DIR$/config/defines.inc.php" />
+      <change beforePath="$PROJECT_DIR$/modules/blockbanner/img/sale70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/gamification/data/data_FR_EUR_FR.json" afterPath="$PROJECT_DIR$/modules/gamification/data/data_FR_EUR_FR.json" />
+      <change beforePath="$PROJECT_DIR$/modules/themeconfigurator/img/banner-img6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/themeconfigurator/img/banner-img7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/category.tpl" afterPath="$PROJECT_DIR$/themes/mcshop-theme/category.tpl" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/css/global.css" afterPath="$PROJECT_DIR$/themes/mcshop-theme/css/global.css" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/css/modules/blockbanner/blockbanner.css" afterPath="$PROJECT_DIR$/themes/mcshop-theme/css/modules/blockbanner/blockbanner.css" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/footer.tpl" afterPath="$PROJECT_DIR$/themes/mcshop-theme/footer.tpl" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/header.tpl" afterPath="$PROJECT_DIR$/themes/mcshop-theme/header.tpl" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/js/stores.js" afterPath="$PROJECT_DIR$/themes/mcshop-theme/js/stores.js" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl" afterPath="$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop-theme/product.tpl" afterPath="$PROJECT_DIR$/themes/mcshop-theme/product.tpl" />
+      <change beforePath="$PROJECT_DIR$/themes/mcshop/js/modules/blocktopmenu/js/superfish-modified.js" afterPath="$PROJECT_DIR$/themes/mcshop/js/modules/blocktopmenu/js/superfish-modified.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,32 +1004,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/mcshop/config.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/index.tpl">
+      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="378">
+              <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blockspecials.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl">
+      <file leaf-file-name="store_infos.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/store_infos.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stores.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/stores.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1147">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stores.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/js/stores.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="202" column="30" lean-forward="false" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="120" column="48" lean-forward="false" selection-start-line="120" selection-start-column="48" selection-end-line="120" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/category.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defines.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -46,13 +1102,47 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>htmlcontent_top</find>
+      <find>htmlcontent-item</find>
+      <find>debug</find>
+      <find>PS_MODE_DEV</find>
+      <find>sfHover</find>
+      <find>price</find>
+      <find>CATAL</find>
+      <find>CATALOG</find>
+      <find>global</find>
+      <find>google</find>
+      <find>api</find>
+      <find>key</find>
+      <find>maps</find>
+      <find>google.maps</find>
+      <find>API</find>
+      <find>API_KEY</find>
+      <find>marker</find>
+      <find>Size</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/mcshop/config.xml" />
         <option value="$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/footer.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/modules/blocktopmenu/blocktopmenu.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/modules/blockcontact/nav.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/blockbanner.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/css/modules/blockbanner/blockbanner.css" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/product.tpl" />
+        <option value="$PROJECT_DIR$/config/defines.inc.php" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/js/stores.js" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/category.tpl" />
+        <option value="$PROJECT_DIR$/themes/mcshop-theme/header.tpl" />
       </list>
     </option>
   </component>
@@ -62,11 +1152,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -83,7 +1177,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,46 +1187,52 @@
             <path>
               <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mcshop-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mcshop-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mcshop-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blockcategories" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blockbanner" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="mcshop-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blockspecials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mcshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mcshop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mcshop-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,33 +1259,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518650590350</updated>
-      <workItem from="1518650591532" duration="1136000" />
+      <workItem from="1518650591532" duration="2611000" />
+      <workItem from="1519244583843" duration="287000" />
+      <workItem from="1519293111007" duration="3854000" />
+      <workItem from="1521533800936" duration="1083000" />
+      <workItem from="1522062285521" duration="9357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1136000" />
+    <option name="totallyTimeSpent" value="17192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -201,11 +1305,140 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6765">
+          <caret line="451" column="58" lean-forward="true" selection-start-line="451" selection-start-column="58" selection-end-line="451" selection-end-column="58" />
+          <folding>
+            <element signature="e#19574#19580#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mcshop/config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -213,7 +1446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -221,7 +1453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -229,7 +1460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -237,7 +1467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -261,14 +1490,242 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockspecials/blockspecials.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        <state relative-caret-position="480">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blocktopmenu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="11" lean-forward="false" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockcontact/blockcontact.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockcontact/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blocktopmenu/blocktopmenu.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blocktopmenu/blocktopmenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18416">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517242834000" expanded="true" signature="3792:4096" ph="CREATE TABLE... IF" />
+            <marker date="1517242834000" expanded="true" signature="4148:4540" ph="CREATE TABLE... IF" />
+            <marker date="1517242834000" expanded="true" signature="5069:5109" ph="DROP TABLE `... " />
+            <marker date="1517242834000" expanded="true" signature="5149:5194" ph="DROP TABLE `... " />
+            <marker date="1517242834000" expanded="true" signature="14830:14858" ph="..." />
+            <marker date="1517242834000" expanded="true" signature="33861:34236" ph="SELECT bcp.`... ${_DB_PREFIX_}cms_category" />
+            <marker date="1517242834000" expanded="true" signature="34373:34748" ph="SELECT bcp.`... ${_DB_PREFIX_}cms_category" />
+            <marker date="1517242834000" expanded="true" signature="35765:36208" ph="SELECT c.`id... ${_DB_PREFIX_}cms" />
+            <marker date="1517242834000" expanded="true" signature="38230:38294" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+            <marker date="1517242834000" expanded="true" signature="47501:47529" ph="..." />
+            <marker date="1517242834000" expanded="true" signature="50090:50107" ph="..." />
+            <marker date="1517242834000" expanded="true" signature="52133:53020" ph="SELECT c.*, ${_DB_PREFIX_}category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockbanner/blockbanner.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/css/modules/blockbanner/blockbanner.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/blockbanner.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/modules/blockbanner/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/store_infos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/javascript.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/js/addresses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/stores.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1147">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin104kaetpi/filemanager/js/include.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mails/fr/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/js/stores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="202" column="30" lean-forward="false" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="66" column="27" lean-forward="false" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mcshop-theme/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="120" column="48" lean-forward="false" selection-start-line="120" selection-start-column="48" selection-end-line="120" selection-end-column="48" />
           <folding />
         </state>
       </provider>

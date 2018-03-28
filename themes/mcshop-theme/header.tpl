@@ -68,6 +68,61 @@
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
+
+		<style>
+			#block_top_menu {
+				height: auto;
+				padding: 0;
+				margin: 0;
+				padding-bottom: 15px;
+			}
+			.sf-menu {
+				background: #333;
+				color: #FAFAFA;
+				border: none;
+			}
+
+			.sf-menu > li > a {
+				padding: 0 20px;
+				line-height: 1;
+				font-size: 2rem;
+				border: 0;
+				height: 2rem;
+				color: #fafafa;
+			}
+
+			.sf-menu > li > ul {
+				top: 2.5rem;
+			}
+
+			.sf-menu > li.sfHover > a, .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {
+				background: #333;
+				border-bottom-color: #666666;
+				color: #e0e0e0;
+			}
+
+			.content_scene_cat .content_scene_cat_bg {
+				box-shadow: #cecece 0px 1px 10px 0;
+				background-color: white !important;
+			}
+
+			.content_scene_cat {
+				color: #676767;
+			}
+
+			.content_scene_cat span.category-name {
+				color: #404040;
+			}
+
+			@media screen and (max-width:1025px) {
+				.content_scene_cat_bg {
+					background-size: contain !important;
+					width: 100%;
+					min-height: 200px!important;
+				}
+			}
+		</style>
+
 	</head>
 	<body{if isset($page_name)} id="{$page_name|escape:'html':'UTF-8'}"{/if} class="{if isset($page_name)}{$page_name|escape:'html':'UTF-8'}{/if}{if isset($body_classes) && $body_classes|@count} {implode value=$body_classes separator=' '}{/if}{if $hide_left_column} hide-left-column{else} show-left-column{/if}{if $hide_right_column} hide-right-column{else} show-right-column{/if}{if isset($content_only) && $content_only} content_only{/if} lang_{$lang_iso}">
 	{if !isset($content_only) || !$content_only}
@@ -102,12 +157,13 @@
 					<div>
 						<div class="container">
 							<div class="row">
-								<div id="header_logo">
+								<div id="header_logo" class="col-sm-4">
 									<a href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$base_dir}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">
 										<img class="logo img-responsive" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"{if isset($logo_image_width) && $logo_image_width} width="{$logo_image_width}"{/if}{if isset($logo_image_height) && $logo_image_height} height="{$logo_image_height}"{/if}/>
 									</a>
 								</div>
-								{if isset($HOOK_TOP)}{$HOOK_TOP}{/if}
+								<div class="col-sm-4"></div>
+                                {if isset($HOOK_TOP)}{$HOOK_TOP}{/if}
 							</div>
 						</div>
 					</div>
